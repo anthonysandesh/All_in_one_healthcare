@@ -29,10 +29,11 @@
 - The accuracy achieved was around 86.96%.
 
 ### Main Page
-- [Heart disease detection](#heart-disease-detection)
+<img width="813" alt="Screenshot 2024-06-13 at 7 30 25 PM" src="https://github.com/anthonysandesh/all_in_one_healthcare/assets/52021528/5da7c3e6-6605-4a59-b1ec-59224d853abf">
 
 ### Result Page
-- [Heart disease detection](#heart-disease-detection)
+<img width="814" alt="Screenshot 2024-06-13 at 7 30 34 PM" src="https://github.com/anthonysandesh/all_in_one_healthcare/assets/52021528/5276ac19-393e-4823-9c5f-1932c5e670f6">
+
 
 
 ## How to run this:
